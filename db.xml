@@ -1,0 +1,35 @@
+<?xml version="1.0"?>
+<Member xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <CustomerList>
+    <Customer>
+      <id>1</id>
+      <customer_no>recep</customer_no>
+      <password>123456</password>
+      <public_key>new key</public_key>
+    </Customer>
+    <Customer>
+      <id>2</id>
+      <customer_no>ozgur</customer_no>
+      <password>123456</password>
+      <public_key />
+    </Customer>
+    <Customer>
+      <id>3</id>
+      <customer_no>omer</customer_no>
+      <password>123456</password>
+      <public_key />
+    </Customer>
+    <Customer>
+      <customer_no>yeni müşteri</customer_no>
+      <public_key>ppppppp</public_key>
+    </Customer>
+    <Customer>
+      <customer_no>yeni müşteri</customer_no>
+      <public_key>ppppppp</public_key>
+    </Customer>
+    <Customer>
+      <customer_no>yeni müşteri</customer_no>
+      <public_key>ppppppp</public_key>
+    </Customer>
+  </CustomerList>
+</Member>
